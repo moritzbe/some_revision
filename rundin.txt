@@ -1,0 +1,13 @@
+Team Nr	gender1	age1 	name1	gender2	age2 	name2
+1	m	18	Peter	w	25	Tom
+2	w	20	Maria	m	24	Jeana
+3	m	24	Kev	m	17	Mo
+4	m	25	Mo	w	25	Lorenz
+5	m	26	Lav	w	26	Torsten
+6	m	23	Jo	m	30	Fritz
+7	w	24	Gabri	w	24	Fritte
+8	m	22	Adrian	m	25	Wurst
+9	w	19	Laura	w	19	Qualle
+10	m	20	Mohammed	w	26	Wahl
+11	w	21	Wibke	m	20	Wollmilchsau
+12	w	22	Mareike	m	22	Sophi
